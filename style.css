@@ -1,0 +1,58 @@
+*{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+header{
+    background-color: #646C8F;
+}
+header a{
+    color: #FFE3CC;
+}
+.nav-item a{
+    color: #FFE3CC;
+}
+#boton-perfil{
+    background-color:  #FFE3CC;
+}
+.nav-item a:hover{
+    color: #FFC2B5;
+}
+#app{
+    color: #646C8F;
+}
+.boton-cv{
+    color: #8F797E;
+    background-color: #FFC2B5;
+}
+.caja-habilidades{
+    background-color: #DCC3A1;
+    color: #646C8F;
+}
+.btn-proyectos{
+    background-color: #646C8F;
+}
+.btn-proyectos a{
+    text-decoration: none;
+    color: #DCC3A1;
+}
+.card .card-title{
+    color: #8F797E;
+}
+.card .card-subtitle{
+    color: #FFC2B5;
+}
+#contacto{
+    background-color: #FFC2B5;
+    color: #8F797E;
+}
+footer li .bi{
+    color: #646C8F;
+}
+footer p{
+    color: #646C8F;
+}
+footer p a{
+    text-decoration: none;
+    color:#FFC2B5;
+}
